@@ -1,0 +1,61 @@
+# Ignore .idea folder (JetBrains Rider or WebStorm)
+.idea/
+
+# Ignore user-specific files and launch settings
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore ASP.NET Core build output
+bin/
+obj/
+
+# Ignore Rider-specific project restore info
+*.rider.*
+
+# Ignore app settings if sensitive (optional)
+appsettings.Development.json
+appsettings.json
+
+# Ignore compiled output
+*.dll
+*.pdb
+*.exe
+*.cache
+*.log
+*.vspscc
+*.vssscc
+
+# Ignore Visual Studio Code workspace settings
+.vscode/
+
+# Ignore build artifacts
+**/Debug/
+**/Release/
+
+# Ignore auto-generated files
+*.GeneratedMSBuildEditorConfig.editorconfig
+*.AssemblyInfo.cs
+*.g.cs
+*.g.i.cs
+
+# Ignore NuGet files
+project.assets.json
+project.lock.json
+*.nuget.g.props
+*.nuget.g.targets
+*.nupkg
+*.snupkg
+*.nuspec
+*.ncrunch*
+*.nunit*
+*.coverage
+*.vsix
+*.build.csdef
+
+# Ignore swagger auto-gen if present
+swagger/
+
+# Ignore HTTP test files (optional)
+*.http
