@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "k4zdBQ/uO4QSGZ3pJf1DztMfLHnxVwNgleNZbxQVph6rzQ2/RRLN1Dk73tq/z1/wawvZlUEwk9oeLjdqawDVqQ==",
+  "success": true,
+  "projectFilePath": "/Users/noureach/RiderProjects/Time.Api/Time.Api/Time.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/noureach/.nuget/packages/microsoft.aspnetcore.openapi/8.0.4/microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
+    "/Users/noureach/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/noureach/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/noureach/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/noureach/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/noureach/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/noureach/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
