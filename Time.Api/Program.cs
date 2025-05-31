@@ -1,9 +1,9 @@
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddControllers(); // <-- Add this
 
 var app = builder.Build();
 
@@ -22,6 +22,6 @@ app.MapGet("/time", () => new
     TimeZone = "UTC"
 });
 
-app.MapControllers();
+app.MapControllers(); // <-- Now valid
 
 app.Run();
