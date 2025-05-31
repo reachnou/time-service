@@ -22,4 +22,6 @@ app.MapGet("/time", () => new
     TimeZone = "UTC"
 });
 
+app.MapControllers();
+
 app.Run();

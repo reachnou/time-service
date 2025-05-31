@@ -31,3 +31,4 @@
 /Users/noureach/RiderProjects/Time.Api/Time.Api/obj/Debug/net8.0/Time.Api.pdb
 /Users/noureach/RiderProjects/Time.Api/Time.Api/obj/Debug/net8.0/Time.Api.genruntimeconfig.cache
 /Users/noureach/RiderProjects/Time.Api/Time.Api/obj/Debug/net8.0/ref/Time.Api.dll
+/Users/noureach/RiderProjects/Time.Api/Time.Api/obj/Debug/net8.0/Time.Api.sourcelink.json
