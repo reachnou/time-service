@@ -3,7 +3,6 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddControllers(); // <-- Add this
 
 var app = builder.Build();
 
@@ -21,7 +20,5 @@ app.MapGet("/time", () => new
     CurrentTime = DateTime.UtcNow,
     TimeZone = "UTC"
 });
-
-app.MapControllers(); // <-- Now valid
 
 app.Run();
